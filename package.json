@@ -1,0 +1,25 @@
+{
+  "name": "note-taker",
+  "version": "1.0.0",
+  "description": "note taker",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kikaiaku/notetaker.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/kikaiaku/notetaker/issues"
+  },
+  "homepage": "https://github.com/kikaiaku/notetaker#readme"
+}
